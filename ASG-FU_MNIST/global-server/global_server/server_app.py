@@ -8,7 +8,6 @@ import datetime
 import os
 from collections import OrderedDict
 import torch
-from setuptools.command.build_ext import if_dl
 from torchvision.datasets import FashionMNIST
 from torchvision.transforms import Compose, ToTensor, Normalize
 from torch.utils.data import DataLoader
