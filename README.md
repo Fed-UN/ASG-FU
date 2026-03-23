@@ -1,6 +1,6 @@
 # ASG-FU: An Adaptive and Secure Grouping Framework for Federated Unlearning
 
-This repository contains the source code for our paper **“ASG-FU: An Adaptive and Secure Grouping Framework for Federated Unlearning”** . The project implements a federated learning system that dynamically groups clients based on model similarity, trains subgroups in parallel, and supports efficient unlearning by removing a client from its group and retraining only the affected subgroup.
+This repository contains the source code for our paper **“ASG-FU: An Adaptive and Secure Grouping Framework for Federated Unlearning”** . The project implements a federated unlearning system that dynamically groups clients based on model similarity, trains subgroups in parallel, and supports efficient unlearning by removing a client from its group and retraining only the affected subgroup.
 
 ## Overview
 
